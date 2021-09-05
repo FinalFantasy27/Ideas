@@ -9,7 +9,7 @@ A record of ideas but that I don't want to realize(or don't have time to realize
 ### Step 1:
 [Make a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) on Github!
 
-$cdots$
+### ......
 
 ### Step 3:
 Your work is DONE! Now you just need to put it online. You can follow [Github Pages's instructions](https://pages.github.com/) for free hosting.
