@@ -4,7 +4,7 @@ A record of ideas but that I don't want to realize(or don't have time to realize
 # How to join in
 
 ### Step 0:
-[Check the existing issues](https://github.com/FinalFantasy27/Ideas/issues) to see if everyone else has already started your desired translation. If someone already started, go help them! :)
+[Check the existing issues](https://github.com/FinalFantasy27/Ideas/issues) to see if everyone else has already started your desired ideas. If someone already started, go help them! :) If you want to put forward your ideas, please email me or make a pull request to let me know.
 
 ### Step 1:
 [Make a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) on Github!
