@@ -19,3 +19,8 @@ Email me so I know you're done!(I'm usually busy and/or bad at email, so it'll t
 Make a Pull Request! (I am slow to respond, so you may have to wait a while before your translation is live)
 
 Thank you!
+
+### Reference: 
+. https://github.com/ncase/anxiety#how-to-translate
+
+. https://github.com/ncase/mental-health#how-to-translate
