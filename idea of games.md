@@ -3,3 +3,5 @@
  
 . [recursion chess](http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/)
 递归国际象棋
+
+![recursion chess](https://raw.githubusercontent.com/FinalFantasy27/FinalFantasy27/main/images/Recursive-chess-Django-Pinter-1024x1024.png)
