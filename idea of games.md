@@ -1,7 +1,7 @@
 . In RPG or action games, you often have to fight against others. So I want to propose thiss idea: a game in which you maybe turned into the one you are fighting with. I think it may show a bit of humanity and a different understanding.l
 
  
-. [recursion chess](http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/)
+. [recursive chess](http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/)
 递归国际象棋
 
-![recursion chess](https://raw.githubusercontent.com/FinalFantasy27/FinalFantasy27/main/images/Recursive-chess-Django-Pinter-1024x1024.png)
+![recursive chess](https://raw.githubusercontent.com/FinalFantasy27/FinalFantasy27/main/images/Recursive-chess-Django-Pinter-1024x1024.png)
