@@ -16,7 +16,7 @@ Your work is DONE! Now you just need to put it online. You can follow [Github Pa
 
 ### Step 4: TELL ME YOU ARE DONE 
 Email me so I know you're done!(I'm usually busy and/or bad at email, so it'll take me a while to get around to it, but if I don't respond for a week, ping me again!)
-Make a Pull Request! (I am slow to respond, so you may have to wait a while before your translation is live)
+Make a Pull Request! (I am slow to respond, so you may have to wait a while before your work is live)
 
 Thank you!
 
