@@ -1,5 +1,4 @@
-. In RPG or action games, you often have to fight against others. So I want to propose this idea: a game in which you may be turned into the one you are fighting with. I think it may show a bit of humanity and a different understanding.
-
+. 在RPG或动作游戏中，你经常要与他人作战。所以我想提出这个想法：在游戏中，你可能会变成与你战斗的人。我认为这可能显示出一点人性和不同的理解。
  
 . [recursive chess](http://jdh.hamkins.org/what-is-the-game-of-recursive-chess/)
 递归国际象棋
